@@ -1,6 +1,6 @@
 Algoritmo "quadrante"
 
-   // Natan Mollica
+ // Natan Mollica
 
 Var
 
